@@ -1,2 +1,7 @@
-*.cbp
-*.layout
+*.vcxproj
+*.filters
+*.dll
+
+/Debug/
+/Release/
+
